@@ -1,0 +1,21 @@
+Note: you may face below error when you are trying to use a library with the name "ElemStatLearn". 
+Error in library(ElemStatLearn) : there is no package called ‘ElemStatLearn’
+
+In fact, Package ‘ElemStatLearn’ is removed from the CRAN repository. So, you need to download the package and install it manually.
+
+Download the latest version of the package using the link below:
+https://cran.r-project.org/src/contrib/Archive/ElemStatLearn/
+
+Then install the package using the below steps:
+
+Step 1: Go to Tools.
+
+Step 2: Go to Install Packages.
+
+Step 3: In the Install From set it as Package Archive File (.zip; .tar.gz)
+
+Step 4: Then Browse find your package file (say crayon_1.3.1.zip) and after some time (after it shows the Package path and file name in the Package Archive tab)
+
+or follow the instructions available here:
+https://riptutorial.com/r/example/5556/install-package-from-local-source
+ 

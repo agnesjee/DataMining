@@ -1,0 +1,17 @@
+Source of Lab 12: http://www.sthda.com/english/articles/40-regression-analysis/168-multiple-linear-regression-in-r/
+
+1) instal package "tidyverse" using:
+install.packages("tidyverse")
+
+2) instal package "datarium" using:
+install.packages("datarium")
+
+3) instal package "devtools" using:
+install.packages("devtools")
+
+
+4) Install the datarium package using: 
+
+devtools::install_github("kassambara/datarium")
+
+5) Note: if you face error during creating the model, you can try to clear variable environment in RStudio.

@@ -1,0 +1,12 @@
+Source of this practical session: https://rpubs.com/Treegonaut/301942
+
+1) install package mvoutlier:
+
+install.packages("mvoutlier")
+
+2) Install the latest version of this package by entering the following in R:
+
+install.packages("remotes")
+
+remotes::install_github("kallhoffa/Rfunspaceadventure")
+
