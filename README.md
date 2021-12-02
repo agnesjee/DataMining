@@ -18,5 +18,5 @@ Topics include:
 
 Additional:
 - Mid Evaluation (telco-churn.csv)
-- Group Assignment (kidney.R, kidney_csv)
+- Group Assignment (kidney.R, kidney_disease.csv)
 - Final Assessment (premium.csv)
