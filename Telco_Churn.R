@@ -1,6 +1,3 @@
-# Name: Agnes Jee Chian Hwa
-# Student ID: 0339809
-
 # To get and print current working directory
 print(getwd())
 
